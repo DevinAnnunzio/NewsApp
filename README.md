@@ -7,7 +7,7 @@
 ## Functionality 
 
 The current functionality:
-* [ ] User is presented a list of current news from newsapi.org
+* [✅] User is presented a list of current news from newsapi.org
 
 
 
